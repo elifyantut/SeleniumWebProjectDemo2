@@ -1,0 +1,248 @@
+{"logLevel":"debug","message":"multithreading is set to false"}
+{"logLevel":"debug","message":"Using reflection to scan dependencies for gauge implementations..."}
+SLF4J: A number (20) of logging calls during the initialization phase have been intercepted and are
+SLF4J: now being replayed. These are subject to the filtering rules of the underlying logging system.
+SLF4J: See also http://www.slf4j.org/codes.html#replay
+{"logLevel":"debug","message":"gauge-java took 1358milliseconds to load and scan. This should be less than 'runner_connection_timeout' config value."}
+{"logLevel":"debug","message":"run 'gauge config runner_connection_timeout' and verify that it is < 1358"}
+{"logLevel":"debug","message":"starting gRPC server..."}
+{"logLevel":"debug","message":"started gRPC server on port 50133"}
+{"logLevel":"info","message":"Listening on port:50133"}
+2024-09-13 16:32:47 INFO  Reflections:219 scan - Reflections took 1188 ms to scan 121 urls, producing 3179 keys and 17213 values
+{"logLevel":"debug","message":"Scanning packages for steps"}
+{"logLevel":"debug","message":"Comparing 'com.iztek.step.BaseSteps.sendKeyToElementESCAPE' and 'com.iztek.step.BaseSteps.sendKeyToElementESCAPE'"}
+{"logLevel":"debug","message":"Found Elemente ESCAPE keyi yolla {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.iztek.step.BaseSteps.clickToElementWithJavaScript' and 'com.iztek.step.BaseSteps.clickToElementWithJavaScript'"}
+{"logLevel":"debug","message":"Found {} elementine javascript ile týkla in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.iztek.step.BaseSteps.doubleclick' and 'com.iztek.step.BaseSteps.doubleclick'"}
+{"logLevel":"debug","message":"Found {} elementli alana çift týkla in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.iztek.step.BaseSteps.chromeFocusTabWithNumber' and 'com.iztek.step.BaseSteps.chromeFocusTabWithNumber'"}
+{"logLevel":"debug","message":"Found {} numaralý sekmeye odaklan in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.iztek.step.BaseSteps.printPageSource' and 'com.iztek.step.BaseSteps.printPageSource'"}
+{"logLevel":"debug","message":"Found Print page source in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.iztek.step.BaseSteps.acceptChromeAlertPopup' and 'com.iztek.step.BaseSteps.acceptChromeAlertPopup'"}
+{"logLevel":"debug","message":"Found Chrome uyarý popup'ýný kabul et in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.iztek.step.BaseSteps.sendKeyToElementENTER' and 'com.iztek.step.BaseSteps.sendKeyToElementENTER'"}
+{"logLevel":"debug","message":"Found Elemente ENTER keyi yolla {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.iztek.step.BaseSteps.scrollToElementToBeVisible' and 'com.iztek.step.BaseSteps.scrollToElementToBeVisible'"}
+{"logLevel":"debug","message":"Found {} Elementine kadar kaydýr in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.iztek.step.BaseSteps.scrollToElementToBeVisible' and 'com.iztek.step.BaseSteps.scrollToElementToBeVisible'"}
+{"logLevel":"debug","message":"Found Scroll to Element {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.iztek.step.BaseSteps.sendKeyToElementTAB' and 'com.iztek.step.BaseSteps.sendKeyToElementTAB'"}
+{"logLevel":"debug","message":"Found Elemente TAB keyi yolla {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.iztek.step.BaseSteps.clearInputAreaWithBackspace' and 'com.iztek.step.BaseSteps.clearInputAreaWithBackspace'"}
+{"logLevel":"debug","message":"Found {} elementinin text alanýný BACKSPACE ile temizle in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.iztek.step.BaseSteps.ssendKeys' and 'com.iztek.step.BaseSteps.ssendKeys'"}
+{"logLevel":"debug","message":"Found {} textini {} elemente yaz in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.iztek.step.BaseSteps.choosingTextFromList' and 'com.iztek.step.BaseSteps.choosingTextFromList'"}
+{"logLevel":"debug","message":"Found {} olarak {} seçersem in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.iztek.step.BaseSteps.scrollToElementToBeVisiblest' and 'com.iztek.step.BaseSteps.scrollToElementToBeVisiblest'"}
+{"logLevel":"debug","message":"Found {} elementinin bulunduðu lokasyona git in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.iztek.step.BaseSteps.clearInputArea' and 'com.iztek.step.BaseSteps.clearInputArea'"}
+{"logLevel":"debug","message":"Found {} elementinin text alanýný temizle in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.iztek.step.BaseSteps.javascriptClickerWithXpath' and 'com.iztek.step.BaseSteps.javascriptClickerWithXpath'"}
+{"logLevel":"debug","message":"Found Javascript ile xpath týkla {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.iztek.step.BaseSteps.clickParticularElement' and 'com.iztek.step.BaseSteps.clickParticularElement'"}
+{"logLevel":"debug","message":"Found {} elementleri arasýndan {} kayýtlý deðiþkene týkla in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.iztek.step.BaseSteps.hover' and 'com.iztek.step.BaseSteps.hover'"}
+{"logLevel":"debug","message":"Found {} elementin üstünde bekle in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.iztek.step.BaseSteps.printElementText' and 'com.iztek.step.BaseSteps.printElementText'"}
+{"logLevel":"debug","message":"Found Elementin text deðerini yazdýr css {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.iztek.step.BaseSteps.waitElementLoadWithCss' and 'com.iztek.step.BaseSteps.waitElementLoadWithCss'"}
+{"logLevel":"debug","message":"Found Elementin yüklenmesini bekle css {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.iztek.step.BaseSteps.sendKeysVariable' and 'com.iztek.step.BaseSteps.sendKeysVariable'"}
+{"logLevel":"debug","message":"Found {} deðiþkenini {} elementine yaz in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.iztek.step.BaseSteps.clickElement' and 'com.iztek.step.BaseSteps.clickElement'"}
+{"logLevel":"debug","message":"Found Elementine týkla {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.iztek.step.BaseSteps.sendKeysByKey' and 'com.iztek.step.BaseSteps.sendKeysByKey'"}
+{"logLevel":"debug","message":"Found {} li elementi bul, temizle ve {} deðerini yaz in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.iztek.step.BaseSteps.sendKeysByKey' and 'com.iztek.step.BaseSteps.sendKeysByKey'"}
+{"logLevel":"debug","message":"Found Find element by {} clear and send keys {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.iztek.step.BaseSteps.checkElementNotExists' and 'com.iztek.step.BaseSteps.checkElementNotExists'"}
+{"logLevel":"debug","message":"Found Element yok mu kontrol et {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.iztek.step.BaseSteps.chromeOpenNewTab' and 'com.iztek.step.BaseSteps.chromeOpenNewTab'"}
+{"logLevel":"debug","message":"Found Yeni sekme aç in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.iztek.step.BaseSteps.scrollToElement' and 'com.iztek.step.BaseSteps.scrollToElement'"}
+{"logLevel":"debug","message":"Found {} alanýna kaydýr in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.iztek.step.BaseSteps.writeToKeyWithJavaScript' and 'com.iztek.step.BaseSteps.writeToKeyWithJavaScript'"}
+{"logLevel":"debug","message":"Found {} elementine {} deðerini js ile yaz in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.iztek.step.BaseSteps.waitByMilliSeconds' and 'com.iztek.step.BaseSteps.waitByMilliSeconds'"}
+{"logLevel":"debug","message":"Found {} milisaniye bekle in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.iztek.step.BaseSteps.closeTab' and 'com.iztek.step.BaseSteps.closeTab'"}
+{"logLevel":"debug","message":"Found Sekmeyi kapat in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.iztek.step.BaseSteps.chromeFocusLastTab' and 'com.iztek.step.BaseSteps.chromeFocusLastTab'"}
+{"logLevel":"debug","message":"Found Son sekmeye odaklan in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.iztek.step.BaseSteps.checkElement' and 'com.iztek.step.BaseSteps.checkElement'"}
+{"logLevel":"debug","message":"Found {} elementini kontrol et in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.iztek.step.BaseSteps.getElementWithKeyIfExists' and 'com.iztek.step.BaseSteps.getElementWithKeyIfExists'"}
+{"logLevel":"debug","message":"Found Element var mý kontrol et {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.iztek.step.BaseSteps.writeRandomValueToElement' and 'com.iztek.step.BaseSteps.writeRandomValueToElement'"}
+{"logLevel":"debug","message":"Found {} elementine random deðer yaz in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.iztek.step.BaseSteps.checkElementExistsThenClick' and 'com.iztek.step.BaseSteps.checkElementExistsThenClick'"}
+{"logLevel":"debug","message":"Found Elementi bekle ve sonra týkla {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.iztek.step.BaseSteps.chromeFocusFrame' and 'com.iztek.step.BaseSteps.chromeFocusFrame'"}
+{"logLevel":"debug","message":"Found indexi {} olan Frame'e odaklan in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.iztek.step.BaseSteps.sendKeyToElementBACKSPACE' and 'com.iztek.step.BaseSteps.sendKeyToElementBACKSPACE'"}
+{"logLevel":"debug","message":"Found Elemente BACKSPACE keyi yolla {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.iztek.step.BaseSteps.checkElementContainsText' and 'com.iztek.step.BaseSteps.checkElementContainsText'"}
+{"logLevel":"debug","message":"Found {} elementi {} deðerini içeriyor mu kontrol et in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.iztek.step.BaseSteps.goToUrl' and 'com.iztek.step.BaseSteps.goToUrl'"}
+{"logLevel":"debug","message":"Found {} adresine git in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.iztek.step.BaseSteps.writeRandomValueToElement' and 'com.iztek.step.BaseSteps.writeRandomValueToElement'"}
+{"logLevel":"debug","message":"Found {} elementine {} deðeri ile baþlayan random deðer yaz in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.iztek.step.BaseSteps.hashMapPutElement' and 'com.iztek.step.BaseSteps.hashMapPutElement'"}
+{"logLevel":"debug","message":"Found {} elementinin text degerini, {} elementine yaz in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.iztek.step.BaseSteps.refreshPage' and 'com.iztek.step.BaseSteps.refreshPage'"}
+{"logLevel":"debug","message":"Found Sayfayý yenile in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.iztek.step.BaseSteps.checkElementAttributeWithJs' and 'com.iztek.step.BaseSteps.checkElementAttributeWithJs'"}
+{"logLevel":"debug","message":"Found {} elementinin value degeri {} degerini iceriyor mu kontrol et in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.iztek.step.BaseSteps.switchToPage2' and 'com.iztek.step.BaseSteps.switchToPage2'"}
+{"logLevel":"debug","message":"Found Ýkinci sekmeye geçilir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.iztek.step.BaseSteps.getElementWithKeyIfExistsWithMessage' and 'com.iztek.step.BaseSteps.getElementWithKeyIfExistsWithMessage'"}
+{"logLevel":"debug","message":"Found Element {} var mý kontrol et yoksa hata mesajý ver {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.iztek.step.BaseSteps.chromeZoomOut' and 'com.iztek.step.BaseSteps.chromeZoomOut'"}
+{"logLevel":"debug","message":"Found Sayfanýn zoom deðerini deðiþtir {}% in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.iztek.step.BaseSteps.switchTo' and 'com.iztek.step.BaseSteps.switchTo'"}
+{"logLevel":"debug","message":"Found popupa gec in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.iztek.step.BaseSteps.RandomMail' and 'com.iztek.step.BaseSteps.RandomMail'"}
+{"logLevel":"debug","message":"Found {} li elementi bul, temizle ve rasgele  email deðerini yaz in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.iztek.step.BaseSteps.RandomMail' and 'com.iztek.step.BaseSteps.RandomMail'"}
+{"logLevel":"debug","message":"Found Find element by {} clear and send keys  random email in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.iztek.step.BaseSteps.comboBoxRandom' and 'com.iztek.step.BaseSteps.comboBoxRandom'"}
+{"logLevel":"debug","message":"Found {} olarak comboboxdan random bir deðer seçilir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.iztek.step.BaseSteps.switchToDefaultContent' and 'com.iztek.step.BaseSteps.switchToDefaultContent'"}
+{"logLevel":"debug","message":"Found Ana frame'e dön in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.iztek.step.BaseSteps.createRandomString' and 'com.iztek.step.BaseSteps.createRandomString'"}
+{"logLevel":"debug","message":"Found {} uzunlugunda random bir kelime üret ve {} olarak sakla in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.iztek.step.BaseSteps.chromeFocusFrameWithNumber' and 'com.iztek.step.BaseSteps.chromeFocusFrameWithNumber'"}
+{"logLevel":"debug","message":"Found Focus on frame with {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.iztek.step.BaseSteps.chromeFocusFrameWithNumber' and 'com.iztek.step.BaseSteps.chromeFocusFrameWithNumber'"}
+{"logLevel":"debug","message":"Found Frame'e odaklan {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.iztek.step.BaseSteps.equalsSendTextByKey' and 'com.iztek.step.BaseSteps.equalsSendTextByKey'"}
+{"logLevel":"debug","message":"Found {} li elementi bul ve deðerini {} saklanan degeri yazdir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.iztek.step.BaseSteps.equalsSendTextByKey' and 'com.iztek.step.BaseSteps.equalsSendTextByKey'"}
+{"logLevel":"debug","message":"Found Find element by {} and compare saved key {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.iztek.step.BaseSteps.sendKeyOneByOne' and 'com.iztek.step.BaseSteps.sendKeyOneByOne'"}
+{"logLevel":"debug","message":"Found {} textini {} elemente tek tek yaz in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.iztek.step.BaseSteps.sendKeyOneByOne' and 'com.iztek.step.BaseSteps.sendKeyOneByOne'"}
+{"logLevel":"debug","message":"Found Write {} to element {} OnebyOne in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.iztek.step.BaseSteps.waitBySeconds' and 'com.iztek.step.BaseSteps.waitBySeconds'"}
+{"logLevel":"debug","message":"Found {} saniye bekle in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.iztek.step.BaseSteps.randomPick' and 'com.iztek.step.BaseSteps.randomPick'"}
+{"logLevel":"debug","message":"Found Random pick {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.iztek.step.BaseSteps.randomPick' and 'com.iztek.step.BaseSteps.randomPick'"}
+{"logLevel":"debug","message":"Found Rastgele element seç {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.iztek.step.BaseSteps.waitElementLoadWithXpath' and 'com.iztek.step.BaseSteps.waitElementLoadWithXpath'"}
+{"logLevel":"debug","message":"Found Elementinin yüklenmesini bekle xpath {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.iztek.step.BaseSteps.scrollToElementWithJs' and 'com.iztek.step.BaseSteps.scrollToElementWithJs'"}
+{"logLevel":"debug","message":"Found {} alanýna js ile kaydýr in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.iztek.step.BaseSteps.checkURLContainsRepeat' and 'com.iztek.step.BaseSteps.checkURLContainsRepeat'"}
+{"logLevel":"debug","message":"Found Þuanki URL {} deðerini içeriyor mu kontrol et in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.iztek.step.BaseSteps.sendKeys' and 'com.iztek.step.BaseSteps.sendKeys'"}
+{"logLevel":"debug","message":"Found {} mapKeyindeki texti, {} elementine yaz in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.iztek.step.BaseSteps.javascriptClickerWithCss' and 'com.iztek.step.BaseSteps.javascriptClickerWithCss'"}
+{"logLevel":"debug","message":"Found Javascript ile css týkla {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.iztek.step.BaseSteps.clearWithJS' and 'com.iztek.step.BaseSteps.clearWithJS'"}
+{"logLevel":"debug","message":"Found {} alanýný javascript ile temizle in current project scope."}
+{"logLevel":"debug","message":"Scanning packages for hooks"}
+{"logLevel":"debug","message":"Scanned steps (using static parsing + reflections): "}
+{"logLevel":"debug","message":"\tÝkinci sekmeye geçilir : public void switchToPage2()"}
+{"logLevel":"debug","message":"\tRandom pick {} : public void randomPick(String key)"}
+{"logLevel":"debug","message":"\tJavascript ile css týkla {} : public void javascriptClickerWithCss(String css)"}
+{"logLevel":"debug","message":"\t{} elementini kontrol et : public void checkElement(String key)"}
+{"logLevel":"debug","message":"\t{} adresine git : public void goToUrl(String url)"}
+{"logLevel":"debug","message":"\tElement {} var mý kontrol et yoksa hata mesajý ver {} : public void getElementWithKeyIfExistsWithMessage(String key, String message)"}
+{"logLevel":"debug","message":"\t{} elementin üstünde bekle : public void hover(String key)"}
+{"logLevel":"debug","message":"\tFrame'e odaklan {} : public void chromeFocusFrameWithNumber(String key)"}
+{"logLevel":"debug","message":"\tScroll to Element {} : public WebElement scrollToElementToBeVisible(String key)"}
+{"logLevel":"debug","message":"\tÞuanki URL {} deðerini içeriyor mu kontrol et : public void checkURLContainsRepeat(String expectedURL)"}
+{"logLevel":"debug","message":"\tElemente TAB keyi yolla {} : public void sendKeyToElementTAB(String key)"}
+{"logLevel":"debug","message":"\t{} deðiþkenini {} elementine yaz : public void sendKeysVariable(String variable, String key)"}
+{"logLevel":"debug","message":"\t{} elementine javascript ile týkla : public void clickToElementWithJavaScript(String key)"}
+{"logLevel":"debug","message":"\t{} elementine random deðer yaz : public void writeRandomValueToElement(String key)"}
+{"logLevel":"debug","message":"\tElemente ENTER keyi yolla {} : public void sendKeyToElementENTER(String key)"}
+{"logLevel":"debug","message":"\tElementi bekle ve sonra týkla {} : public void checkElementExistsThenClick(String key)"}
+{"logLevel":"debug","message":"\t{} numaralý sekmeye odaklan : public void chromeFocusTabWithNumber(ýnt number)"}
+{"logLevel":"debug","message":"\tElemente BACKSPACE keyi yolla {} : public void sendKeyToElementBACKSPACE(String key)"}
+{"logLevel":"debug","message":"\t{} elementinin text alanýný temizle : public void clearInputArea(String key)"}
+{"logLevel":"debug","message":"\t{} elementinin text alanýný BACKSPACE ile temizle : public void clearInputAreaWithBackspace(String key)"}
+{"logLevel":"debug","message":"\t{} elementine {} deðeri ile baþlayan random deðer yaz : public void writeRandomValueToElement(String key, String startingText)"}
+{"logLevel":"debug","message":"\tFocus on frame with {} : public void chromeFocusFrameWithNumber(String key)"}
+{"logLevel":"debug","message":"\t{} elementinin text degerini, {} elementine yaz : public void hashMapPutElement(String key, String mapKey)"}
+{"logLevel":"debug","message":"\tPrint page source : public void printPageSource()"}
+{"logLevel":"debug","message":"\t{} milisaniye bekle : public void waitByMilliSeconds(long milliseconds)"}
+{"logLevel":"debug","message":"\tpopupa gec : public void switchTo()"}
+{"logLevel":"debug","message":"\t{} elementi {} deðerini içeriyor mu kontrol et : public void checkElementContainsText(String key, String expectedText)"}
+{"logLevel":"debug","message":"\tElement yok mu kontrol et {} : public void checkElementNotExists(String key)"}
+{"logLevel":"debug","message":"\tElementin yüklenmesini bekle css {} : public void waitElementLoadWithCss(String css)"}
+{"logLevel":"debug","message":"\tElement var mý kontrol et {} : public WebElement getElementWithKeyIfExists(String key)"}
+{"logLevel":"debug","message":"\t{} alanýný javascript ile temizle : public void clearWithJS(String key)"}
+{"logLevel":"debug","message":"\t{} olarak comboboxdan random bir deðer seçilir : public void comboBoxRandom(String key) throws InterruptedException"}
+{"logLevel":"debug","message":"\t{} saniye bekle : public void waitBySeconds(ýnt seconds)"}
+{"logLevel":"debug","message":"\tRastgele element seç {} : public void randomPick(String key)"}
+{"logLevel":"debug","message":"\t{} mapKeyindeki texti, {} elementine yaz : public void sendKeys(String mapKey, String key)"}
+{"logLevel":"debug","message":"\tSayfayý yenile : public void refreshPage()"}
+{"logLevel":"debug","message":"\tYeni sekme aç : public void chromeOpenNewTab()"}
+{"logLevel":"debug","message":"\tFind element by {} clear and send keys {} : public void sendKeysByKey(String key, String text)"}
+{"logLevel":"debug","message":"\t{} alanýna kaydýr : public void scrollToElement(String key)"}
+{"logLevel":"debug","message":"\t{} elementine {} deðerini js ile yaz : public void writeToKeyWithJavaScript(String key, String text)"}
+{"logLevel":"debug","message":"\tAna frame'e dön : public void switchToDefaultContent()"}
+{"logLevel":"debug","message":"\tElemente ESCAPE keyi yolla {} : public void sendKeyToElementESCAPE(String key)"}
+{"logLevel":"debug","message":"\t{} elementinin bulunduðu lokasyona git : public void scrollToElementToBeVisiblest(WebElement webElement)"}
+{"logLevel":"debug","message":"\t{} olarak {} seçersem : public void choosingTextFromList(String key, String text) throws InterruptedException"}
+{"logLevel":"debug","message":"\tJavascript ile xpath týkla {} : public void javascriptClickerWithXpath(String xpath)"}
+{"logLevel":"debug","message":"\t{} alanýna js ile kaydýr : public void scrollToElementWithJs(String key)"}
+{"logLevel":"debug","message":"\tFind element by {} and compare saved key {} : public void equalsSendTextByKey(String key, String saveKey) throws InterruptedException"}
+{"logLevel":"debug","message":"\tSon sekmeye odaklan : public void chromeFocusLastTab()"}
+{"logLevel":"debug","message":"\tFind element by {} clear and send keys  random email : public void RandomMail(String key)"}
+{"logLevel":"debug","message":"\t{} li elementi bul ve deðerini {} saklanan degeri yazdir : public void equalsSendTextByKey(String key, String saveKey) throws InterruptedException"}
+{"logLevel":"debug","message":"\t{} elementinin value degeri {} degerini iceriyor mu kontrol et : public void checkElementAttributeWithJs(String key, String expectedValue)"}
+{"logLevel":"debug","message":"\tElementinin yüklenmesini bekle xpath {} : public void waitElementLoadWithXpath(String xpath)"}
+{"logLevel":"debug","message":"\tElementin text deðerini yazdýr css {} : public void printElementText(String css)"}
+{"logLevel":"debug","message":"\tSayfanýn zoom deðerini deðiþtir {}% : public void chromeZoomOut(String value)"}
+{"logLevel":"debug","message":"\t{} li elementi bul, temizle ve rasgele  email deðerini yaz : public void RandomMail(String key)"}
+{"logLevel":"debug","message":"\tWrite {} to element {} OnebyOne : public void sendKeyOneByOne(String text, String key) throws InterruptedException"}
+{"logLevel":"debug","message":"\t{} Elementine kadar kaydýr : public WebElement scrollToElementToBeVisible(String key)"}
+{"logLevel":"debug","message":"\t{} uzunlugunda random bir kelime üret ve {} olarak sakla : public void createRandomString(ýnt length, String saveKey)"}
+{"logLevel":"debug","message":"\tindexi {} olan Frame'e odaklan : public void chromeFocusFrame(ýnt key)"}
+{"logLevel":"debug","message":"\tSekmeyi kapat : public void closeTab()"}
+{"logLevel":"debug","message":"\t{} li elementi bul, temizle ve {} deðerini yaz : public void sendKeysByKey(String key, String text)"}
+{"logLevel":"debug","message":"\t{} elementleri arasýndan {} kayýtlý deðiþkene týkla : public void clickParticularElement(String key, String text)"}
+{"logLevel":"debug","message":"\tElementine týkla {} : public void clickElement(String key)"}
+{"logLevel":"debug","message":"\t{} textini {} elemente tek tek yaz : public void sendKeyOneByOne(String text, String key) throws InterruptedException"}
+{"logLevel":"debug","message":"\t{} textini {} elemente yaz : public void ssendKeys(String text, String key)"}
+{"logLevel":"debug","message":"\tChrome uyarý popup'ýný kabul et : public void acceptChromeAlertPopup()"}
+{"logLevel":"debug","message":"\t{} elementli alana çift týkla : public void doubleclick(WebElement elementLocator)"}
+2024-09-13 16:32:48 INFO  Reflections:219 scan - Reflections took 363 ms to scan 121 urls, producing 3125 keys and 12808 values
+2024-09-13 16:32:48 INFO  BaseTest:57 setUp - ************************************  BeforeScenario  ************************************
+2024-09-13 16:32:48 INFO  BaseTest:60 setUp - Local cihazda win ortamÄ±nda chrome browserÄ±nda test ayaÄŸa kalkacak
+Eyl 13, 2024 4:32:48 ÖS org.openqa.selenium.remote.DesiredCapabilities chrome
+INFO: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Starting ChromeDriver 128.0.6613.84 (606aa55c7d687518d34b55accc5a71ea0bd28727-refs/branch-heads/6613@{#1335}) on port 29841
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully on port 29841.
+Eyl 13, 2024 4:32:49 ÖS org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+{"logLevel":"debug","message":"Executing '{} saniye bekle' using 'class com.iztek.step.BaseSteps.waitBySeconds"}
+2024-09-13 16:32:56 INFO  BaseSteps:151 waitBySeconds - 5 saniye bekleniyor.
+{"logLevel":"debug","message":"Executing '{} elementine javascript ile týkla' using 'class com.iztek.step.BaseSteps.clickToElementWithJavaScript"}
+2024-09-13 16:33:01 INFO  BaseSteps:607 clickToElementWithJavaScript - izsu_loginPopUpCloseButton elementine javascript ile tÄ±klandÄ±
+{"logLevel":"debug","message":"Executing '{} saniye bekle' using 'class com.iztek.step.BaseSteps.waitBySeconds"}
+2024-09-13 16:33:01 INFO  BaseSteps:151 waitBySeconds - 5 saniye bekleniyor.
+{"logLevel":"debug","message":"Executing '{} elementine javascript ile týkla' using 'class com.iztek.step.BaseSteps.clickToElementWithJavaScript"}
+2024-09-13 16:33:07 INFO  BaseSteps:607 clickToElementWithJavaScript - homePage_BarajlarButton elementine javascript ile tÄ±klandÄ±
+{"logLevel":"debug","message":"Executing 'Þuanki URL {} deðerini içeriyor mu kontrol et' using 'class com.iztek.step.BaseSteps.checkURLContainsRepeat"}
+2024-09-13 16:33:07 INFO  BaseSteps:321 checkURLContainsRepeat - Åžuanki URLhttps://dev.izsu.gov.tr/tr/Barajlar/3 deÄŸerini iÃ§eriyor.
+{"logLevel":"debug","message":"Executing '{} elementine javascript ile týkla' using 'class com.iztek.step.BaseSteps.clickToElementWithJavaScript"}
+2024-09-13 16:33:09 INFO  BaseSteps:607 clickToElementWithJavaScript - izsu_barajlar_BarajlarSuDurumu elementine javascript ile tÄ±klandÄ±
+{"logLevel":"debug","message":"Executing '{} saniye bekle' using 'class com.iztek.step.BaseSteps.waitBySeconds"}
+2024-09-13 16:33:09 INFO  BaseSteps:151 waitBySeconds - 2 saniye bekleniyor.
+{"logLevel":"debug","message":"Executing 'Þuanki URL {} deðerini içeriyor mu kontrol et' using 'class com.iztek.step.BaseSteps.checkURLContainsRepeat"}
+2024-09-13 16:33:11 INFO  BaseSteps:321 checkURLContainsRepeat - Åžuanki URLhttps://dev.izsu.gov.tr/tr/BarajlarinSuDurumu/1 deÄŸerini iÃ§eriyor.
+{"logLevel":"debug","message":"Executing 'Element {} var mý kontrol et yoksa hata mesajý ver {}' using 'class com.iztek.step.BaseSteps.getElementWithKeyIfExistsWithMessage"}
+2024-09-13 16:33:11 INFO  BaseSteps:263 getElementWithKeyIfExistsWithMessage - izsu_barajlar_BarajlarSuDurumu_TableControl elementi bulundu.
+{"logLevel":"debug","message":"Killing Java runner..."}
+{"logLevel":"debug","message":"Stopping execution pool..."}
+{"logLevel":"debug","message":"Shutting down grpc server..."}
+{"logLevel":"debug","message":"Runner killed gracefully."}

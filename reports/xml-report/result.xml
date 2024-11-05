@@ -1,0 +1,8 @@
+<testsuites>
+	<testsuite id="1" tests="1" failures="0" package="C:\Users\elif.yantut\IdeaProjects\IzmirimKart_WebAutomation\specs\deneme.spec" time="5.634" timestamp="2024-10-10T14:58:21" name="Login" errors="0" hostname="elif-yantut">
+		<properties></properties>
+		<testcase classname="Login" name="Tum alanlar bos birakilarak login olma islemi" time="5.634"></testcase>
+		<system-out></system-out>
+		<system-err></system-err>
+	</testsuite>
+</testsuites>

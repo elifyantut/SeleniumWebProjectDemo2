@@ -1,0 +1,8 @@
+[
+	"C:\\Program Files\\Gauge\\bin\\gauge.exe",
+	"run",
+	"--machine-readable",
+	"--hide-suggestion",
+	"--simple-console",
+	"C:/Users/elif.yantut/IdeaProjects/IzmirimKart_WebAutomation/specs/deneme.spec:7"
+]

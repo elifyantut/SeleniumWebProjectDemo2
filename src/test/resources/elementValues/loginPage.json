@@ -1,0 +1,72 @@
+[
+  {
+    "key": "LoginPage_GirisYapButton",
+    "value": "button[type=submit]",
+    "type": "css"
+  },
+  {
+    "key": "LoginPage_TelefonNo_WarningInfo",
+    "value": "//p[.='Gereklidir']",
+    "type": "xpath"
+  },
+  {
+    "key": "LoginPage_Parola_WarningInfo",
+    "value": "//p[.='En az 8 karakter içermelidir']",
+    "type": "xpath"
+  },
+  {
+    "key": "",
+    "value": "",
+    "type": ""
+  },
+  {
+    "key": "",
+    "value": "",
+    "type": ""
+  },
+  {
+    "key": "",
+    "value": "",
+    "type": ""
+  },
+  {
+    "key": "",
+    "value": "",
+    "type": ""
+  },
+  {
+    "key": "",
+    "value": "",
+    "type": ""
+  },
+  {
+    "key": "",
+    "value": "",
+    "type": ""
+  },
+  {
+    "key": "",
+    "value": "",
+    "type": ""
+  },
+  {
+    "key": "",
+    "value": "",
+    "type": ""
+  },
+  {
+    "key": "",
+    "value": "",
+    "type": ""
+  },
+  {
+    "key": "",
+    "value": "",
+    "type": ""
+  },
+  {
+    "key": "",
+    "value": "",
+    "type": ""
+  }
+]

@@ -1,0 +1,21 @@
+Created by teknik.user on 10.09.2024
+
+This is a concept file with following syntax for each concept.
+# Anasayfa popup kapatilir
+* Element var mı kontrol et "HomePage_CloseIcon"
+* Elementine tıkla "HomePage_CloseIcon"
+
+# Online Islemler butonuna tiklanir ve giris sayfasina gidilir
+* Element var mı kontrol et "HomePage_OnlineIslemlerButton"
+* Elementine tıkla "HomePage_OnlineIslemlerButton"
+* Şuanki URL "dev.izmirimkart.com.tr/giris" değerini içeriyor mu kontrol et
+
+# Giris yap butonuna tiklanir
+* Element var mı kontrol et "LoginPage_GirisYapButton"
+* Elementine tıkla "LoginPage_GirisYapButton"
+
+# Telefon No icin uyari gorulur
+* Element var mı kontrol et "LoginPage_TelefonNo_WarningInfo"
+
+# Parola icin uyari gorulur
+* Element var mı kontrol et "LoginPage_Parola_WarningInfo"
